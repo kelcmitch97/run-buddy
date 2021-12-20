@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddym Inc
 
 ## Purpose
 A webstie that offers fitness training services.
@@ -12,3 +12,5 @@ https://kelcmitch97.github.io/run-buddy/
 
 ## Contribution 
 Made with ❤️ by Kelcie Mitchelmore 
+
+## ©️2019 Run Buddy, Inc 
