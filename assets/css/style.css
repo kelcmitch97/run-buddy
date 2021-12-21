@@ -142,7 +142,7 @@ section {
     padding: 10px 20px;
     font-size: 16px;
 }
-
+/* HERO SECTION END */
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -225,6 +225,9 @@ section {
     align-items: center;
     justify-content: space-between;
 }
+
+/* TRAINER SECTION START */
+
 .trainers {
     width: 100%;
     margin: 0 auto;
